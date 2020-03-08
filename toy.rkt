@@ -1,4 +1,4 @@
-#lang racket
+#lang racket sux
 
 (require "x64.rkt" (except-in "asm.rkt" mem?))
 
